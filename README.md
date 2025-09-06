@@ -1,6 +1,6 @@
 # Musify
 
-A modern, responsive Spotify clone built with React and Vite. Musicfy delivers a seamless music browsing experience, mirroring the core functionalities of the popular streaming service. This project served as a comprehensive trail to explore and demonstrate proficiency in modern React development, state management, and API integration.
+A modern, responsive Spotify clone built with React and Vite. Musify delivers a seamless music browsing experience, mirroring the core functionalities of the popular streaming service. This project served as a comprehensive trail to explore and demonstrate proficiency in modern React development, state management, and API integration.
 
 ## Prerequisites 
 
@@ -49,3 +49,4 @@ A modern, responsive Spotify clone built with React and Vite. Musicfy delivers a
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details. Note that this project uses the Spotify API and is intended for educational purposes only. All branding and audio content are property of their respective owners.
+
